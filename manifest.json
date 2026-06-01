@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "NYCU Video Controller",
+  "version": "1.0.0",
+  "description": "為交大 e3 平台提供原生影片鍵盤快捷鍵支援，包含快轉、播放速度與音量控制，並具備 OSD 視覺回饋。",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://e3p.nycu.edu.tw/*"
+      ],
+      "js": ["content.js"],
+      "all_frames": true
+    }
+  ]
+}
