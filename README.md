@@ -1,8 +1,8 @@
-# NYCU Video Controller 🎥
+# NYCU Video Controller
 
 為國立陽明交通大學 e3p 教學平台專門設計的 Chrome 瀏覽器擴充功能。解決平台原生播放器缺乏鍵盤控制的問題，讓你用 YouTube 的習慣順暢觀看教學影片。
 
-## ✨ 功能特色 (Features)
+## 功能特色 (Features)
 
 本擴充功能直接對底層 HTML5 `<video>` 進行操作，並提供 OSD (On-Screen Display) 視覺回饋。支援以下快捷鍵：
 
@@ -12,7 +12,7 @@
 * **`Shift` + `>` / `<`**：加快 / 放慢影片播放速度 (支援 0.5x 到 4x)
 * **`F`**：切換全螢幕
 
-## 🚀 安裝指南 (Installation)
+## 安裝指南 (Installation)
 
 本專案尚未上架 Chrome Web Store，請依照以下步驟以「開發人員模式」手動載入。
 
@@ -33,7 +33,7 @@ git clone [https://github.com/你的GitHub帳號/NYCU-Video-Controller.git](http
 
 接著按照上方步驟 3~6，將 clone 下來的資料夾載入 Chrome 即可。
 
-## 🛠️ 進階設定：支援其他影音網站
+## 進階設定：支援其他影音網站
 
 為了避免與 YouTube 等大型平台的原生快捷鍵衝突，本擴充功能預設**僅在交大 e3p 網域下啟用**。
 
