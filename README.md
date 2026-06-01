@@ -16,7 +16,7 @@
 
 本專案尚未上架 Chrome Web Store，請依照以下步驟以「開發人員模式」手動載入。
 
-### 對於一般使用者 (免寫程式、免 IDE)
+### 對於一般使用者
 1. 點擊本頁面右上角的綠色按鈕 **`<> Code`**，選擇 **`Download ZIP`**。
 2. 將下載的 ZIP 檔案解壓縮至電腦中任意位置（請記住該資料夾的位置）。
 3. 打開 Chrome 瀏覽器，在網址列輸入 `chrome://extensions/` 並進入。
@@ -25,7 +25,7 @@
 6. 選擇你剛剛解壓縮的資料夾，安裝即完成！重新整理 e3p 影片網頁即可使用。
 
 ### 對於開發者 (使用終端機 / CLI)
-無論你是 Windows 還是 macOS 用戶，只要環境中裝有 `git`，請執行：
+無論 Windows 還是 macOS 用戶，環境中裝有 `git`，請執行：
 ```bash
 git clone [https://github.com/你的GitHub帳號/NYCU-Video-Controller.git](https://github.com/你的GitHub帳號/NYCU-Video-Controller.git)
 
