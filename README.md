@@ -53,14 +53,14 @@ git clone [https://github.com/你的GitHub帳號/NYCU-Video-Controller.git](http
 
 4. 儲存檔案後，回到 Chrome 擴充功能頁面點擊該卡片右下角的「重新載入 (Reload)」即可生效。
 
-## ⚠️ 常見問題與排除 (Troubleshooting)
+## ⚠️ 常見問題與排除
 
 **Q: 當影片畫面跳出「由於損壞問題或視頻使用了瀏覽器不支持的功能，視頻播放已中止」？**
 
 A: 最可能的原因是「頻繁觸發時間跳轉」，瀏覽器會不斷向伺服器發送新的片段請求。若當下網路回應較慢，底層的影片解碼器收到破碎的資料流時就會觸發原生的保護機制而中斷播放。
 **解決方式**：這不是系統錯誤，也不會影響你的帳號安全。只需**按下 `F5` 重新整理網頁**，讓影片重新初始化即可恢復正常。
 
-## 📄 授權條款 (License)
+## License
 
 This project is licensed under the MIT License.
 
