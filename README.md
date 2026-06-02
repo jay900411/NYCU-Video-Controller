@@ -1,4 +1,6 @@
 # NYCU Video Controller
+![GitHub Repo stars](https://img.shields.io/github/stars/jay900411/NYCU-Video-Controller?style=social)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 為國立陽明交通大學 e3p 教學平台專門設計的 Chrome 瀏覽器擴充功能。解決平台原生播放器缺乏鍵盤控制的問題，讓你用 YouTube 的習慣順暢觀看教學影片。
 
